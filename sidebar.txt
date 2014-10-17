@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pye:home|Door43 (pye)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pye|d43-pye repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pye/archive/master.zip|d43-pye.zip]]
+
+**Recent Changes**
+{{changes>ns = pye}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pye|Ethnologue data]]
+
